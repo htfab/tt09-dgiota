@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_copia29
+MACRO tt_um_template
   CLASS BLOCK ;
-  FOREIGN tt_um_copia29 ;
+  FOREIGN tt_um_template ;
   ORIGIN 0.000 0.000 ;
   SIZE 161.000 BY 225.760 ;
   PIN clk
