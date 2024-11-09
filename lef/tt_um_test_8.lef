@@ -5,7 +5,7 @@ VERSION 5.7 ;
 MACRO tt_um_test_8
   CLASS BLOCK ;
   FOREIGN tt_um_test_8 ;
-  ORIGIN 0.030 0.000 ;
+  ORIGIN 0.000 0.000 ;
   SIZE 151.740 BY 225.760 ;
   PIN clk
     DIRECTION INPUT ;
