@@ -1,0 +1,36 @@
+MACRO sky130_fd_sc_hd__tapvpwrvgnd_1
+  CLASS BLOCK ;
+  FOREIGN sky130_fd_sc_hd__tapvpwrvgnd_1 ;
+  ORIGIN 0.000 0.000 ;
+  SIZE 0.460 BY 2.720 ;
+  PIN VPWR
+    USE POWER ;
+    PORT
+      LAYER nwell ;
+        RECT -0.190 1.305 0.650 2.910 ;
+      LAYER li1 ;
+        RECT 0.000 2.635 0.460 2.805 ;
+        RECT 0.085 1.470 0.375 2.635 ;
+      LAYER mcon ;
+        RECT 0.145 2.635 0.315 2.805 ;
+      LAYER met1 ;
+        RECT 0.000 2.480 0.460 2.960 ;
+    END
+  END VPWR
+  PIN VGND
+    USE GROUND ;
+    PORT
+      LAYER pwell ;
+        RECT 0.145 0.320 0.315 0.845 ;
+      LAYER li1 ;
+        RECT 0.085 0.085 0.375 0.810 ;
+        RECT 0.000 -0.085 0.460 0.085 ;
+      LAYER mcon ;
+        RECT 0.145 -0.085 0.315 0.085 ;
+      LAYER met1 ;
+        RECT 0.000 -0.240 0.460 0.240 ;
+    END
+  END VGND
+END sky130_fd_sc_hd__tapvpwrvgnd_1
+END LIBRARY
+
