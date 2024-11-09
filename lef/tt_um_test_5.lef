@@ -1374,6 +1374,6 @@ MACRO tt_um_test_5
         RECT 42.325 131.075 71.975 131.230 ;
         RECT 2.425 129.525 2.580 130.225 ;
   END
-END tt_um_test_5.gds
+END tt_um_test_5
 END LIBRARY
 
