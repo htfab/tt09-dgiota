@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_test_4
+MACRO tt_um_test_3
   CLASS BLOCK ;
-  FOREIGN tt_um_test_4 ;
+  FOREIGN tt_um_test_3 ;
   ORIGIN 0.000 0.000 ;
   SIZE 161.000 BY 225.760 ;
   PIN clk
