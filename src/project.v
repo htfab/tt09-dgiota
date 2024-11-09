@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_copia26 (
+module tt_um_copia29 (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
