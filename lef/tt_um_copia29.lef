@@ -2,11 +2,11 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_template
+MACRO tt_um_copia29
   CLASS BLOCK ;
-  FOREIGN tt_um_template ;
-  ORIGIN -1.000 0.000 ;
-  SIZE 151.710 BY 225.760 ;
+  FOREIGN tt_um_copia29 ;
+  ORIGIN 0.000 0.000 ;
+  SIZE 161.000 BY 225.760 ;
   PIN clk
     PORT
       LAYER met4 ;
