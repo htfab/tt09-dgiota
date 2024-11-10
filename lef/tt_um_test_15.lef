@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_test_15.lef
+MACRO tt_um_test_15
   CLASS BLOCK ;
-  FOREIGN tt_um_test_15.lef ;
+  FOREIGN tt_um_test_15 ;
   ORIGIN 0.000 0.000 ;
   SIZE 161.000 BY 225.760 ;
   PIN clk
@@ -1178,6 +1178,6 @@ MACRO tt_um_test_15.lef
         RECT 44.320 141.920 44.640 141.950 ;
         RECT 46.420 141.920 46.740 141.950 ;
   END
-END tt_um_test_15.lef
+END tt_um_test_15
 END LIBRARY
 
