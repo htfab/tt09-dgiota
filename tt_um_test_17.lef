@@ -1,0 +1,214 @@
+  PIN clk
+    PORT
+      LAYER met4 ;
+    END
+  PIN ena
+    PORT
+      LAYER met4 ;
+    END
+  PIN rst_n
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[0]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[1]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[2]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[3]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[4]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[5]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[6]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ua[7]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[0]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[1]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[2]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[3]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[4]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[5]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[6]
+    PORT
+      LAYER met4 ;
+    END
+  PIN ui_in[7]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[0]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[1]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[2]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[3]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[4]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[5]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[6]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_in[7]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[0]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[1]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[2]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[3]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[4]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[5]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[6]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_oe[7]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[0]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[1]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[2]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[3]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[4]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[5]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[6]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uio_out[7]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[0]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[1]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[2]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[3]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[4]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[5]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[6]
+    PORT
+      LAYER met4 ;
+    END
+  PIN uo_out[7]
+    PORT
+      LAYER met4 ;
+    END
+  PIN VDPWR
+    USE POWER ;
+    PORT
+      LAYER met4 ;
+    END
+  PIN VGND
+    USE GROUND ;
+    PORT
+      LAYER met4 ;
+    END
